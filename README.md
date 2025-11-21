@@ -39,6 +39,6 @@ Sou um **Engenheiro de Software Backend** focado em construir sistemas robustos,
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arag%C3%A3o-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassaragao.dev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](lucassaragao.dev@gmail.com)
 
 Thanks for visiting! 🚀
