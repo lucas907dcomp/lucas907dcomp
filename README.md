@@ -1,44 +1,56 @@
-<div align="right">
+<div align="center">
   <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
-### Olá, eu sou o Lucas Aragão! 👋
-
-Sou um **Engenheiro de Software Backend** focado em construir sistemas robustos, escaláveis e eficientes. Minha especialidade é o ecossistema Java, entregando soluções que resolvem problemas reais de negócio com arquitetura limpa.
-
-- 🔭 Atualmente trabalhando em projetos de **API de Alta Performance** e **Sistemas Distribuídos**.
-- 🌱 Estudando profundamente **Arquitetura de Software**, **Microsserviços** e **Cloud**.
-- 👯 Aberto a colaborações em projetos Open Source de Java.
-- 💬 Me pergunte sobre **Spring Boot**, **Docker**, **CI/CD** e **Idempotência**.
-
----
-
-### 🛠️ Tech Stack
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
-  <img align="center" alt="Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <h1>Olá, eu sou o Lucas Aragão! 👋</h1>
   
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <h3>Backend Software Engineer | Java Specialist</h3>
+  
+  <p>
+    Focado em construir sistemas <b>distribuídos</b>, <b>seguros</b> e de <b>alta performance</b>.<br>
+    Transformo requisitos de negócio complexos em arquiteturas de microsserviços escaláveis.
+  </p>
+
+  <a href="https://www.linkedin.com/in/lucas-aragao-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:lucassaragao.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<br>
+
+### 🚀 Sobre Mim
+
+- 🔭 Atualmente desenvolvendo soluções em **Java 21** e **Spring Boot 3**.
+- 🛠️ Especialista em **APIs RESTful**, **Segurança (JWT)** e **Comunicação Real-Time (WebSockets)**.
+- ☁️ Experiência com **Docker**, **CI/CD** e Bancos de Dados SQL/NoSQL (**Oracle, Postgres, MongoDB**).
+- 💡 Busco sempre aplicar **Clean Code** e princípios de **Arquitetura de Software** em cada commit.
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,mongodb,docker,git,rabbitmq,react,idea&perline=12" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Projetos em Destaque
 
-<div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucas907dcomp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas907dcomp&layout=compact&theme=dracula"/>
+| Projeto | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| **[Secure Notification System](https://github.com/lucas907dcomp/secure-notification-system)** | Java 21, Spring Boot, WebSockets, JWT, React | Sistema **Fullstack** de notificações em tempo real com arquitetura segura (Stateless), Docker e MongoDB. |
+| **[Async Messaging Service](https://github.com/lucas907dcomp/nome-do-repo-rabbitmq)** | Java 21, Spring Boot, RabbitMQ, PostgreSQL, Docker | Microsserviço **Backend Puro** focado em processamento assíncrono de filas com alta disponibilidade e tolerância a falhas. |
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/lucas907dcomp/lucas907dcomp/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arag%C3%A3o-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucassaragao.dev@gmail.com)
-
-Thanks for visiting! 🚀
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
