@@ -43,7 +43,7 @@
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
 | **[Secure Notification System](https://github.com/lucas907dcomp/secure-notification-system)** | Java 21, Spring Boot, WebSockets, JWT, React | Sistema **Fullstack** de notificações em tempo real com arquitetura segura (Stateless), Docker e MongoDB. |
-| **[Async Messaging Service](https://github.com/lucas907dcomp/nome-do-repo-rabbitmq)** | Java 21, Spring Boot, RabbitMQ, PostgreSQL, Docker | Microsserviço **Backend Puro** focado em processamento assíncrono de filas com alta disponibilidade e tolerância a falhas. |
+| **[Orders Messaging Service](https://github.com/lucas907dcomp/orders-messaging-service)** | Java 21, Spring Boot, RabbitMQ, PostgreSQL, Docker | Microsserviço **Backend** focado em processamento assíncrono de filas com alta disponibilidade e tolerância a falhas. |
 
 <br>
 
